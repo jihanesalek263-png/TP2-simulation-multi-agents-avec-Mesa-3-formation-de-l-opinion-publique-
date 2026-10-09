@@ -1,0 +1,13 @@
+[project]
+name = "tp2-mesa"
+version = "0.1.0"
+description = "TP2 : simulation multi-agents avec Mesa 3 (formation de l'opinion publique)"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "mesa>=3.5.1",
+    "numpy>=2.5.3",
+    "pandas>=3.0.6",
+]
